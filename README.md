@@ -50,3 +50,4 @@ Previous Code draft code:
 
 Step:  
 - Install the https://circuitpython.org/board/raspberry_pi_pico2_w/ on Your Pico2W
+- https://github.com/EloiStree/2023_09_21_SimulateJoystickInputSearch/blob/main/Code/2023_09_22_MidiToJoystickSimulation/boot.py
