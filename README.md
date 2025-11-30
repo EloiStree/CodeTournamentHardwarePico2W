@@ -42,3 +42,4 @@ The Pico 2W will act as a small sandbox capable of receiving, running, and retur
 Previous Code draft code: 
 - Gamepad and keyboard : https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW.git
 - 0H Gamejam MQTT : https://github.com/EloiStree/2025_10_26_GameJam0H
+  
