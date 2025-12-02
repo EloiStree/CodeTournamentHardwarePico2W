@@ -11,9 +11,9 @@ import string
 import sys
 import websockets
 
-DEFAULT_HOST = "192.168.178.57"
+DEFAULT_HOST = "192.168.178.67"
 DEFAULT_PORT = 5000
-DEFAULT_PATH = "/connect-websocket"
+DEFAULT_PATH = "/input-iid"
 
 def random_bytes(min_len=1, max_len=1024):
     """Generate random bytes."""
